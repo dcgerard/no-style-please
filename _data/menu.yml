@@ -6,13 +6,13 @@ entries:
     entries:
       - title: Research
         url: research
-      - Code:
+      - title: Code
         url: https://github.com/dcgerard
-      - Teaching
+      - title: Teaching
         url: teaching
-      - About
+      - title: About
         url: about
-      - Contact
+      - title: Contact
         url: contact
       - title: And this is Me: 
   - title: all posts
