@@ -7,9 +7,9 @@ entries:
       - title: Research
         url: research
       - Code:
-      	url: https://github.com/dcgerard
+        url: https://github.com/dcgerard
       - Teaching
-      	url: teaching
+        url: teaching
       - About
         url: about
       - Contact
