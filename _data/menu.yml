@@ -2,37 +2,22 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Hello! My name is David and I'm an assistant professor in the Department of Mathematics and Statistics at American University. I just finished a postdoctoral scholarship at the University of Chicago, working under Matthew Stephens, where I studied hierarchical modeling approaches to analyzing sequencing data. I obtained my Ph.D. in Statistics at the University of Washington under Peter Hoff. My graduate work was on the statistical analysis of tensor data. You can read more about my work on my research page. If you want to see any code associated with my research, check out my [Github](https://github.com/dcgerard) page.
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>others</a>"
-
+      - title: Research
+        url: research
+      - Code:
+      	url: https://github.com/dcgerard
+      - Teaching
+      	url: teaching
+      - About
+        url: about
+      - Contact
+        url: contact
+      - title: And this is Me: 
   - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: all-posts
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
