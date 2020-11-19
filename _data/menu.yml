@@ -2,7 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Research
+  - title: CV
+    url: gerard_cv.pdf
+  - title: Papers
     url: research
   - title: Code
     url: https://github.com/dcgerard
