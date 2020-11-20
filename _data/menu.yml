@@ -15,7 +15,7 @@ entries:
   - title: Contact
     url: contact
     entries:
-  - title: all posts
+  - title: Blog Posts
     post_list:
       limit: 5
       show_more: true
